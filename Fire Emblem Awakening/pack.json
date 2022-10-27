@@ -1,0 +1,16 @@
+{
+  "name": "Fire Emblem Awakening",
+  "description": "Replaces the menu sfx with Fire Emblem Awakening",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": false,
+  "ignore": [
+  "deck_ui_message_toast.wav",
+  "deck_ui_misc_01.wav",
+  "deck_ui_misc_08.wav",
+  "deck_ui_tile_scroll.wav",
+  "deck_ui_toast.wav",
+  "deck_ui_volume.wav"
+  ]
+}
