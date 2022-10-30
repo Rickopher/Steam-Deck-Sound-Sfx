@@ -1,0 +1,9 @@
+{
+  "name": "Scarlet Blaze Camp (Part II)",
+  "description": "This adds the song Scarlet Blaze Camp (Part II) from Fire Emblem Warriors: Three Hopes by Hiromu Akaba, Asami Mitake, Ayako Toyoda, and Yuki Matsumura. This is the base theme if you pick the Black Eagle House. Help the Empress of Adrestia unite the region of Fodlen under one banner!",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Resolve (Light)",
+  "description": "This adds the song Resolve (Light) from Fire Emblem Fates by Takeru Kanazaki. A map theme, that I feel complements the Steam Deck",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

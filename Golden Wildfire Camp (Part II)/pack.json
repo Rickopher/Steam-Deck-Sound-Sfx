@@ -1,0 +1,9 @@
+{
+  "name": "Golden Wildfire Camp(Part II)",
+  "description": "This adds the song  Golden Wildfire Camp (Part II) from Fire Emblem Warriors: Three Hopes by Hiromu Akaba, Asami Mitake, Ayako Toyoda, and Yuki Matsumura. This is the base theme if you pick The Golden Deer House. Help the Claude scheme his way to victory.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Flowing Waters",
+  "description": "This adds the song Flowing Waters from Fire Emblem Fates by Hiroki Morishita. This song plays on the main menu.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

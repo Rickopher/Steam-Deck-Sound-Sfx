@@ -1,0 +1,9 @@
+{
+  "name": "FE Main Theme (Piano)",
+  "description": "This adds the song FE Main Theme from the Fire Emblem Piano Album released by Nintendo",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "As Swift as Wind",
+  "description": "Adds the song As Swift as Wind from Fire Emblem: Three Houses. The battle prep theme for part I, prep for battle as you navigate the steam deck menus",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

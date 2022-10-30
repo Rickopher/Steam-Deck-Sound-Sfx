@@ -1,0 +1,9 @@
+{
+  "name": "As Fierce As Fire",
+  "description": "This adds the song As Fierce As Fire from Fire Emblem Three Houses by Takeru Kanazaki. The battle prep menu for part II, prep for war as you fiddle with your units on the steam menu.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

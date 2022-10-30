@@ -1,0 +1,9 @@
+{
+  "name": " Azure Gleam Camp (Part II)",
+  "description": "This adds the song  Azure Gleam Camp (Part II) from Fire Emblem Warriors: Three Hopes by Hiromu Akaba, Asami Mitake, Ayako Toyoda, and Yuki Matsumura. The base theme if you pick the Blue Lion House. Help the prince of Faerghus protect his kingdom from usurption.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

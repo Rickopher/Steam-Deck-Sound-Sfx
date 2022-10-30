@@ -1,0 +1,9 @@
+{
+  "name": "Life at Garreg Mach Monastery (Piano)",
+  "description": "This adds the song Life at Garreg Mach Monastery (Piano) from Fire Emblem Three Houses by Keiko, a remix of the Garreg Mach Monastery theme",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

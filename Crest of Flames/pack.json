@@ -1,0 +1,9 @@
+{
+  "name": "Crest of Flames",
+  "description": "This adds the song boots on the ground from Fire Emblem Warriors: Three Hopes by Hiromu Akaba, Asami Mitake, Ayako Toyoda, and Yuki Matsumura. This plays on the main menu.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "A Funeral of Flowers (Thunder)",
+  "description": "This adds the song A Funeral of Flowers (Thunder) from Fire Emblem: Three Houses by Takeru Kanazaki, The Emperor's theme going into the final map.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

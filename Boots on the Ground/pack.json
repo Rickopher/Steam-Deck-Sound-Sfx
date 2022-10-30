@@ -1,0 +1,9 @@
+{
+  "name": "Boots on the Ground",
+  "description": "This adds the song Boots on the Ground from Fire Emblem Warriors: Three Hopes by Hiromu Akaba, Asami Mitake, Ayako Toyoda, and Yuki Matsumura, this plays on the menu before going into battle, be patient and remember to alweays be ready to fight!",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
