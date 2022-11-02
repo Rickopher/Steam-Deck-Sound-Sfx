@@ -6,7 +6,7 @@
   "manifest_version": 1,
   "music": false,
   "ignore": [
-  "bumper_end",
+  "bumper_end.wav",
   "deck_ui_message_toast.wav",
   "deck_ui_misc_01.wav",
   "deck_ui_misc_08.wav",
