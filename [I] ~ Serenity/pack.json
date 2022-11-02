@@ -1,0 +1,9 @@
+{
+  "name": "Resolve (Light)",
+  "description": "This adds the song [I] ~ Serenity from Fire Emblem Awakening by Hiroki Morishita. After a rage enducing session, relax to a soothing mellow tone. Also very relaxing surfing and setting up your library.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
