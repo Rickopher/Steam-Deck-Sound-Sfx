@@ -1,0 +1,9 @@
+{
+  "name": "Old Stories",
+  "description": "This adds the song Old Stories from MADE IN ABYSS ORIGINAL SOUNDTRACK 3 by Kevin Penkin",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

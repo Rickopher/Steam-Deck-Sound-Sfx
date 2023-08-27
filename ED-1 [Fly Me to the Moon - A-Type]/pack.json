@@ -1,0 +1,9 @@
+{
+  "name": "ED-1 [Fly Me to the Moon - A-Type]",
+  "description": "This adds the song Echoes from ED-1 (Fly Me to the Moon - A-Type) by Shiro SAGISU.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

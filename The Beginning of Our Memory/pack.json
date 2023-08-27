@@ -1,0 +1,9 @@
+{
+  "name": "The Beginning of Our Memory",
+  "description": "This adds the song The Beginning of Our Memory from Xenoblade Chronicles 2 Torna: The Golden Country by Yasunori Mitsuda.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

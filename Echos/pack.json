@@ -1,0 +1,9 @@
+{
+  "name": "Echos",
+  "description": "This adds the song Echos from MADE IN ABYSS ORIGINAL SOUNDTRACK 2 by Kevin Penkin",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Once We Part Ways",
+  "description": "This adds the song Once We Part Ways from Xenoblade Chronicles Definitive Edition by ACE+.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Dearly Beloved - KH2.5 ReMIX",
+  "description": "This adds the song Dearly Beloved from Kingdom Hearts HD 2.5 ReMIX by Yoko Shimomura",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

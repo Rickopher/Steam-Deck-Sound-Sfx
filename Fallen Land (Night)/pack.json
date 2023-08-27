@@ -1,0 +1,9 @@
+{
+  "name": "Fallen Land (Night)",
+  "description": "This adds the song Fallen Land (Night) from Xenoblade Chronicles Definitive Edition by Manami Kiyota.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

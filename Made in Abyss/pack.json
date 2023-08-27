@@ -1,0 +1,9 @@
+{
+  "name": "Made in Abyss",
+  "description": "This adds the song Made in Abyss from MADE IN ABYSS ORIGINAL SOUNDTRACK by Kevin Penkin",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

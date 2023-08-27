@@ -1,0 +1,9 @@
+{
+  "name": "Dearly Beloved (Reprise) - KHII",
+  "description": "This adds the song Dearly Beloved (Reprise) from Kingdom Hearts II by Yoko Shimomura",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

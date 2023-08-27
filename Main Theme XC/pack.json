@@ -1,0 +1,9 @@
+{
+  "name": "Main Theme XC",
+  "description": "This adds the song Main Theme from Xenoblade Chronicles by Yoko Simomura.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

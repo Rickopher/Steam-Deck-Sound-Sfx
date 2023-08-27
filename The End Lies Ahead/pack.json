@@ -1,0 +1,9 @@
+{
+  "name": "The End Lies Ahead",
+  "description": "This adds the song The End Lies Ahead from Xenoblade Chronicles Definitive Edition by ACE+.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

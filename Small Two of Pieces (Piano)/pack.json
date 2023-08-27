@@ -1,0 +1,9 @@
+{
+  "name": "Small Two of Pieces (Piano)",
+  "description": "This adds the song Small Two of Pieces (Piano) from the Xenogears 20th Anniversary Concert -The Beginning and the End- by Ahnenerbe Orchestra.",
+  "author": "Rickopher",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
